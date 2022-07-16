@@ -13,6 +13,7 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -59,3 +60,7 @@ I want to keep focusing on JavaScript. It's still eluding me at the moment.
 
 - GitHub - [YayoKB](https://www.github.com/YayoKB)
 - Frontend Mentor - [@YayoKB](https://www.frontendmentor.io/profile/YayoKB)
+
+## Acknowledgements
+
+I'd like to thank [Ahmad Alqaisi](https://www.frontendmentor.io/profile/alQaisi) for helping me figure out what was wrong with my JavaScript button validation. It was a really simply fix but one that I couldn't find without their help!
